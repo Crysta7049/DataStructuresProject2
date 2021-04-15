@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1490151422 source:c:\users\cryst_000\desktop\test\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<cstring>
+	<vector>
+	"TreeNode.h"
+	"LLNode.h"
+	"B_Tree.h"
+
+1490150385 source:c:\users\cryst_000\desktop\test\treenode.cpp
+	"TreeNode.h"
+	<string>
+	"LLNode.h"
+
+1490147178 c:\users\cryst_000\desktop\test\treenode.h
+	<string>
+	<vector>
+	"LLNode.h"
+
+1490073551 c:\users\cryst_000\desktop\test\llnode.h
+	<iostream>
+
+1490147178 source:c:\users\cryst_000\desktop\test\b_tree.cpp
+	"B_Tree.h"
+	"LLNode.h"
+	"TreeNode.h"
+	<vector>
+	<string.h>
+
+1490131520 c:\users\cryst_000\desktop\test\b_tree.h
+	"LLNode.h"
+	"TreeNode.h"
+	<vector>
+
+1490074515 source:c:\users\cryst_000\desktop\test\llnode.cpp
+	<iostream>
+	"LLNode.h"
+
